@@ -1,60 +1,4 @@
-"""
-h) Os resultados da enquete foram compilados em um arquivo CSV com o seguinte cabeçalho:
-    dia, codigo-pergunta, matricula, curso-codigo, opcao-codigo
-
-i) As perguntas foram compiladas em outro arquivo CSV com o seguinte cabeçalho:
-    curso-codigo, curso-nome, pergunta-codigo, pergunta-descricao
-
-j) As opções possíveis das perguntas encontram-se em outro arquivo CSV com o seguinte cabeçalho:
-    pergunta-codigo, opcao-codigo, opcao-descricao
-
-Primeira tarefa seria compilar essas informações e apresentar o resultado da pesquisa. 
-
-Para isso você deve seguir as seguintes regras:  
-1. Utilizar qualquer linguagem de programaçãoqualquer linguagem de programação que tenha as estruturas necessárias;
-    - Python
-2. Apresentar o resultado da pesquisa em texto, sendo que, uma possível solução seria imprimir no terminal;
-3. Informar o total de nome_cursos participantes;
-4. Informar o total de perguntas;
-5. Informar o total de entrevistados para cada um dos dias da enquete; e
-6. Apresentar os resultados das perguntas em apenas um dos formatos abaixo
-        2 - Resultado por Curso: **Formato utilizado**
-            
-            Código do Curso - Nome do Curso
-
-            Perguntas:
-
-            Código da Pergunta - Descrição da Pergunta
-            
-            Total de entrevistados:                  xxx
-            Total de entrevistados do curso:         xxx
-            Total de entrevistados de outros nome_cursos: xxx
-            
-            Resultado       | Porcentagem
-            A - Descrição   | xx
-            B - Descrição   | xx
-            C - Descrição   | xx
-            D - Descrição   | xx
-            Não Respondida  | xx
-
-Para poder fazer a saida como desejado tem que:
-1. Separar por curso
-    - Usar a tabela de 'respostas.csv'
-    - Só tem 3 nome_cursos
-        - c001 (Computação)
-        - m010 (Medicina)
-        - p100 (Psicologia)
-2. Pegar cada perguntas
-3. Entrevistatos
-    1. Total
-    2. Do curso
-    3. Resto
-"""
-
-
 import csv
-from os import close
-from readline import append_history_file
 
 def perguntas_cada_curso():
     with open("perguntas.csv", 'r') as info:
@@ -70,12 +14,6 @@ def perguntas_cada_curso():
                     # quando a pergunta for colocar a sua posição na lista + 1
                     # será o número da questão
                     pergunta.append(f"{linha[3]}")
-                # if 1 <= n < 6:
-                #     perguntas_comp.append(f"{linha[2]}")
-                # elif 6 <= n < 15:
-                #     perguntas_med.append(f"{linha[2]}")
-                # elif 15 <= n < 23:
-                #     perguntas_psic.append(f"{linha[2]}")
 
 def opcoes_cada_pergunta():
     with open("opcoes.csv", "r") as info:
