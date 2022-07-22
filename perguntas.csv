@@ -1,0 +1,23 @@
+curso-codigo,curso-nome,pergunta-codigo,pergunta-descricao
+c001,Computação,1,Você teve alguma dificuldade técnica para assistir as aulas remotamente?
+c001,Computação,2,Você considera que tinha os equipamentos necessários para as aulas remotas?
+c001,Computação,3,Com qual equipamento você utilizou para assistir a maiorias das suas aulas remotas?
+c001,Computação,4,Qual foi a maior dificuldade técnica que você enfrentou para assistir suas aulas remotas?
+c001,Computação,5,"Se houvesse a necessidade de retornar as aulas remotas, você considera que possui todos os equipamentos necessários para esse cenário?"
+m010,Medicina,6,Qual sua faixa etária?
+m010,Medicina,7,Você possui alguma doença…
+m010,Medicina,8,Você se vacinou?
+m010,Medicina,9,Você tomou quantas doses de vacina até o momento?
+m010,Medicina,10,Você tomou a dose de reforço da vacina?
+m010,Medicina,11,Você considera qual o maior fator para diminuição dos número dos casos nesse momento?
+m010,Medicina,12,Você pretende seguir usando máscara?
+m010,Medicina,13,Você acredita que podemos passar por uma nova pandemia no futuro?
+m010,Medicina,14,Qual medida você considera que devemos adotar agora para evitar novas pandemias no futuro?
+p100,Psicologia,15,Qual o sentimento que descreve melhor como você se sentiu durante a pandemia?
+p100,Psicologia,16,Qual o sentimento que descreve melhor como você se agora?
+p100,Psicologia,17,Você recebeu alguma vez atendimento psicológico durante a pandemia?
+p100,Psicologia,18,Você se sentiu solitário assistindo as aulas remotamente?
+p100,Psicologia,19,Como você acredita que foi seu desempenho escolar com as aulas remotas em relação as aulas presenciais?
+p100,Psicologia,20,Suas notas durante as aulas remotas…
+p100,Psicologia,21,Você teve dificuldade para acompanhar as aulas remotas?
+p100,Psicologia,22,Como você se sente com o retorno das aulas presenciais?

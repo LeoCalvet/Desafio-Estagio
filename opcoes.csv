@@ -1,0 +1,76 @@
+pergunta-codigo,opcao-codigo,opcao-descricao
+1,A,"Sim, muita dificuldade"
+1,B,"Sim, pouca dificuldade"
+1,C,Não
+2,A,Sim
+2,B,Não
+3,A,Computador
+3,B,Notebook
+3,C,Celular
+3,D,Tablet
+4,A,Falta de equipamento para assistir as aulas
+4,B,Baixa velocidade de internet 
+4,C,Falta de conexão com a internet
+4,D,Falta de fone do ouvido ou microfone
+5,A,"Sim, possuo todos os equipamentos necessário"
+5,B,"Não, não possuo algum equipamento necessário"
+5,C,"Não, não possuo nenhum equipamento necessário"
+6,A,15 – 20 anos
+6,B,20 – 30 anos
+6,C,30 – 40 anos
+6,D,Mais de 40 anos
+7,A,Cardiovascular
+7,B,Respiratória 
+7,C,Imunológica
+7,D,Nenhuma das alternativas
+8,A,Sim
+8,B,Não
+9,A,Nenhuma dose
+9,B,1 dose
+9,C,2 doses
+9,D,3 ou mais doses
+10,A,Não
+10,B,"Sim, 1 dose de reforço"
+10,C,"Sim, 2 doses de reforço"
+11,A,Alta imunidade da população adquirida pela  através da contaminação
+11,B,Alta imunidade da população adquirida pela vacinação
+11,C,Uso de medidas de distanciamento
+11,D,Uso de medidas de rastreamento e isolamento dos casos positivos
+12,A,"Sim, apenas em ambiente fechados"
+12,B,"Sim, apenas em ambiente abertos"
+12,C,"Sim, em qualquer ambiente"
+12,D,Não
+13,A,"Sim, em um futuro próximo"
+13,B,"Sim, em um futuro distante"
+13,C,Não
+14,A,Aumentando o monitoramento sanitário das fronteiras e aeroportos
+14,B,Investindo em educação e ciência
+14,C,Investindo em políticas de saúde pública
+14,D,Outra
+15,A,Tristeza
+15,B,Frustração
+15,C,Esperança
+15,D,Outro
+16,A,Felicidade
+16,B,Confiança
+16,C,Dúvida
+16,D,Outro
+17,A,"Sim, uma vez"
+17,B,"Sim, mais de uma vez"
+17,C,Não
+18,A,Sim
+18,B,Não
+19,A,Igual
+19,B,Melhor
+19,C,Pior
+20,A,Melhoraram
+20,B,Pioraram
+20,C,Algumas melhoram outras pioraram
+20,D,Se mantiveram iguais
+21,A,"Sim, muita dificuldade"
+21,B,"Sim, alguma dificuldade"
+21,C,Não
+22,A,Feliz
+22,B,Receoso
+22,C,Esperançoso
+22,D,Outro
