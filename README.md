@@ -1,4 +1,4 @@
-# Desafio-Estagio_FEC
+# Desafio-Estagio
 
 Nesse repositório se encontra um arquivo **.py**, e os outros arquivos *.csv*.
 
